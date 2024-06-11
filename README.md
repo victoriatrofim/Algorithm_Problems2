@@ -1,6 +1,7 @@
 ## README TEMA2 - PA
 
  ------------------------------------------- PROBLEMA 1-----------------------------------------------------------------------
+ 
 CERINTA: Gasirea numarului de lanturi elementare comune dintre 2 grafuri date.
 
 IMPLEMENTARE: 
@@ -24,6 +25,7 @@ Rezultatul final reprezinta valoarea elementului n din dp si caracterizeaza cel 
 - Spațiu: Complexitatea spațială este O(n + m), necesară pentru stocarea listelor de adiacență și a vectorului dp.
 
  ------------------------------------------- PROBLEMA 2 ------------------------------------------------------------------------
+ 
 CERINȚA: Determinarea celei mai lungi căi dintre două noduri într-un graf orientat.
 
 IMPLEMENTARE:
@@ -53,6 +55,7 @@ Adaug nodul curent în stivă după ce toți vecinii săi au fost vizitați.
 - Spațiu: Complexitatea spațială este O(n + m), necesară pentru stocarea listei de adiacență și a structurilor de date (stack, vectori, hărți).
 
  ------------------------------------------- PROBLEMA 3 ------------------------------------------------------------------------
+ 
 
 CERINȚA: Găsirea unei submulțimi de muchii cu costul minim care permite existența unui drum de la x la z și de la y la z într-un graf orientat cu costuri pe muchii.
 
